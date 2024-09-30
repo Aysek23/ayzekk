@@ -19,6 +19,7 @@
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
 //v1.1...fesllsşrfnfgmfhm
+//akhdjadkjash
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
@@ -27,8 +28,9 @@
 
 /* Private typedef -----------------------------------------------------------*/
 /* USER CODE BEGIN PTD */
-
+//afsjdnajda
 /* USER CODE END PTD */
+//dgtn
 
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */

@@ -18,7 +18,7 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
-//aysekyazici düzenliuor.
+//v1.1...fesllsşr
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */

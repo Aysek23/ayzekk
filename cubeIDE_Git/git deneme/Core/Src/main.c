@@ -28,7 +28,6 @@
 /* USER CODE BEGIN PTD */
 
 /* USER CODE END PTD */
-//fkdjajsdklasdlkads
 
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
